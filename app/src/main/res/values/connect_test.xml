@@ -15,7 +15,7 @@
     <string name="ct_multi_site_a">Continue</string>
     <string name="ct_multi_site_b">Continue</string>
     <plurals name="ct_plural_add">
-        <item quantity="one">New alert4</item>
+        <item quantity="one">New alert45</item>
         <item quantity="other">New alerts</item>
     </plurals>
     <plurals name="ct_plural_replace">
