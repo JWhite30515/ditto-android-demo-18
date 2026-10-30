@@ -23,7 +23,7 @@
         <item quantity="other">Messages</item>
     </plurals>
     <plurals name="ct_variant_plural">
-        <item quantity="one">File</item>
+        <item quantity="one">4File</item>
         <item quantity="other">Files</item>
     </plurals>
 </resources>
