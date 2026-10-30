@@ -7,4 +7,5 @@
     <string name="ct_dev_copied">Cancel transfer</string>
     <string name="ct_dev_shared_a">Schedule payment</string>
     <string name="ct_dev_shared_b">Schedule payment</string>
+    <string name="ct_dev_tip">Add a tip</string>
 </resources>
